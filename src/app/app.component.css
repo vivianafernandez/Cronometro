@@ -1,0 +1,22 @@
+body{
+    color: #34495E;
+    font-size: 17px;
+    background-image: url(http://subtlepatterns.com/patterns/kindajean.png);
+}
+a {
+    color: #1abc9c;
+}
+a:hover {
+    color: #2fe2bf;
+}
+.container {
+    margin: 5px auto;
+    width: 80%;
+}
+.titulo{
+    background-color: #6797A1;
+    color: #ffffff;
+    text-align: center;
+    padding: 5px;
+    margin: 0;
+}
